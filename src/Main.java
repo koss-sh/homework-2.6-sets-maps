@@ -41,5 +41,6 @@ public class Main {
         Set<String> setOfWords = new HashSet<String>(words);
         System.out.println(words.size() - setOfWords.size());
     }
+
 }
 
